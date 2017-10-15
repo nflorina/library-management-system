@@ -8,6 +8,9 @@ Features
    LogIn page has the  next properties: LogIn, SignUp & Forgot Password.
  If user in trouble, he/she cand click the Forgot Password Button to recover the password. Also they can make a New Account using SignUp    Button.
  
+ 
+ ![login](https://user-images.githubusercontent.com/28653674/31584670-7a87046c-b1bb-11e7-9499-0e7f051034b6.PNG)
+
  ![forgotpass](https://user-images.githubusercontent.com/28653674/31584687-a9f48170-b1bb-11e7-9bb7-7082e808b789.PNG)
 
 
