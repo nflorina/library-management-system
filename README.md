@@ -23,6 +23,15 @@
  * About
  ![home](https://user-images.githubusercontent.com/28653674/31584692-b7cef8f2-b1bb-11e7-9951-fbf1123f19c4.PNG)
  
+ #Here you can choose one of these options:
+ 1. **New Student** - enrole yourself as a student in the library system
+ 2. **New Book** - register a new entry as a book in the library system
+ 3. **Statistics** - evaluate the number of books, students and issue and have a full perspective of teh state of library
+ 4. **New Issue** - search and select a new book
+ 5. **Return book** 
+ 6. **About** - some infos about me
+ 
+ 
  
  
 
