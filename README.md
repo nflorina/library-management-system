@@ -2,7 +2,7 @@
 >An automated system to manage a public library developed in Java 8. Admin panel to control and manage the system easily through an interactive interface.
 >The project is developed in Java 8 using NetBeans 8.2.
 
-Features
+### Features
  - [x] Users can have theirs authorized Username and Password without which system can not be accessed.
    LogIn page has the  next properties: LogIn, SignUp & Forgot Password.
  - [x] If user in trouble, he/she cand click the Forgot Password Button to recover the password. Also they can make a New Account using SignUp    Button.
