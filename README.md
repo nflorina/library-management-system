@@ -5,6 +5,7 @@
 ### Features
  - [x] Users can have theirs authorized Username and Password without which system can not be accessed.
    LogIn page has the  next properties: LogIn, SignUp & Forgot Password.
+   After logging in librarians can search for a book, book issue or a student from home panel itself
  - [x] If user in trouble, he/she cand click the Forgot Password Button to recover the password. Also they can make a New Account using SignUp    Button.
  
  
@@ -27,8 +28,8 @@
  1. **New Student** - enrole yourself as a student in the library system
  2. **New Book** - register a new entry as a book in the library system
  3. **Statistics** - evaluate the number of books, students and issue and have a full perspective of teh state of library
- 4. **New Issue** - search and select a new book
- 5. **Return book** 
+ 4. **New Issue** - search and select a new book; to automate the process they simply need to enter the number of issues and the Issue     ID for each book issue would generate automatically
+ 5. **Return book** - the most important feature for any library is to issue and return books. A panel to view all outstanding logs and   a super simple panel to issue and return books for all librarians
  6. **About** - some infos about me
  
  
