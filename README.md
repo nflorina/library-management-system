@@ -14,6 +14,13 @@ Features
  
  ![signup](https://user-images.githubusercontent.com/28653674/31584769-446225ae-b1bd-11e7-936c-a6d45e495490.PNG)
  
+ - [x] Page Home is able to guide you through the next items: 
+ * New Student
+ * New Book
+ * Statistics
+ * New Issue
+ * Return book
+ * About
  
 
 
